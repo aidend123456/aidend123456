@@ -6,13 +6,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like cats
 [very emotional.webm](https://github.com/user-attachments/assets/8d7da6e1-050a-47b9-91cf-e1c91698b5aa)
-
-
-I code stuff in pygame.
-
-I also do some fun stuff with python (aka adding 26 ints in my prgram for no reason and no purpose)
-
-I also like gaming
+- 🐍 I code stuff in pygame.
+- 🤪 I also do some fun stuff with python (aka being stupid)
+- 🎮 I also like gaming (mostly Geometry Dash)
 <!---
 aidend123456/aidend123456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
